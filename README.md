@@ -1,4 +1,4 @@
-🤓 Data Practitioner 
+🤓 Data Analyst 
 
 📊 Dashboard builder
 
